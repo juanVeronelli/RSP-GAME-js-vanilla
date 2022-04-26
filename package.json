@@ -1,0 +1,16 @@
+{
+  "name": "rsp-game",
+  "version": "0.1.0",
+  "description": "Juego de piedra papel o tijeras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "piedra",
+    "papel",
+    "tijera"
+  ],
+  "author": "Juan Veronelli",
+  "license": "ISC"
+}
